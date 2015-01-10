@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnimationUtils</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="titles">
+        <item>QUAD</item>
+        <item>CUBIC</item>
+        <item>QUART</item>
+        <item>QUINT</item>
+        <item>SINE</item>
+        <item>EXPO</item>
+        <item>CIRC</item>
+        <item>ELASTIC</item>
+        <item>BACK</item>
+        <item>BOUNCE</item>
+        <item>LINEAR</item>
+    </string-array>
+
+</resources>
